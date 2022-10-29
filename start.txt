@@ -1,0 +1,14 @@
+package HelloWorld1;
+
+public class HelloWorld1 {
+		public static void main(String[] args) 
+{
+		
+		String firstString = "Hello World";
+		String secondString = "OOP FIKT";
+		
+		System.out.println(firstString + "  " + secondString + "  ");
+
+}
+
+}
